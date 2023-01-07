@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^1.2.1",
+    "requests": "^0.3.0",
+    "throw": "^1.1.1",
+    "wantit": "^0.0.1"
+  }
+}
